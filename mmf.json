@@ -1,5 +1,5 @@
 {
-    "name": "MMFinance Default List",
+    "name": "MMFinance list",
     "timestamp": "2021-11-09T00:00:00Z",
     "version": { "major": 3, "minor": 0, "patch": 0 },
     "tags": {
@@ -15,7 +15,7 @@
         "address": "0x95aEaF383E2e86A47c11CffdE1F7944eCB2C38C2",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x95aEaF383E2e86A47c11CffdE1F7944eCB2C38C2.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x95aEaF383E2e86A47c11CffdE1F7944eCB2C38C2.svg",
         "tags": ["mainnet"]
       },
       {
@@ -24,7 +24,7 @@
         "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23.svg",
         "tags": ["mainnet"]
       },
       {
@@ -33,7 +33,7 @@
         "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x97749c9B61F878a880DfE312d2594AE07AEd7656.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x97749c9B61F878a880DfE312d2594AE07AEd7656.svg",
         "tags": ["mainnet"]
       },
       {
@@ -42,7 +42,7 @@
         "address": "0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7.svg",
         "tags": ["mainnet"]
       },
       {
@@ -51,7 +51,7 @@
         "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a.svg",
         "tags": ["mainnet"]
       },
       {
@@ -60,7 +60,7 @@
         "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
         "chainId": 25,
         "decimals": 6,
-        "logoURI": "./images/tokens/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59.svg",
         "tags": ["mainnet"]
       },
       {
@@ -69,7 +69,7 @@
         "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0xF2001B145b43032AAF5Ee2884e456CCd805F677D.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xF2001B145b43032AAF5Ee2884e456CCd805F677D.svg",
         "tags": ["mainnet"]
       },
       {
@@ -78,7 +78,7 @@
         "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
         "chainId": 25,
         "decimals": 8,
-        "logoURI": "./images/tokens/0x062E66477Faf219F25D27dCED647BF57C3107d52.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x062E66477Faf219F25D27dCED647BF57C3107d52.svg",
         "tags": ["mainnet"]
       },
       {
@@ -87,7 +87,7 @@
         "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
         "chainId": 25,
         "decimals": 6,
-        "logoURI": "./images/tokens/0x66e428c3f67a68878562e79A0234c1F83c208770.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x66e428c3f67a68878562e79A0234c1F83c208770.svg",
         "tags": ["mainnet"]
       },
       {
@@ -96,7 +96,7 @@
         "address": "0x065DE42E28E42d90c2052a1B49e7f83806Af0e1F",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0x065DE42E28E42d90c2052a1B49e7f83806Af0e1F.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x065DE42E28E42d90c2052a1B49e7f83806Af0e1F.svg",
         "tags": ["mainnet"]
       },
       {
@@ -105,7 +105,7 @@
         "address": "0x7b8aD6d7560FAcd1959cfb4b4163D7d297c4bFc0",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x7b8aD6d7560FAcd1959cfb4b4163D7d297c4bFc0.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x7b8aD6d7560FAcd1959cfb4b4163D7d297c4bFc0.svg",
         "tags": ["mainnet"]
       },
       {
@@ -114,7 +114,7 @@
         "address": "0xD465b6B4937D768075414D413e981Af0b49349Cc",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0xD465b6B4937D768075414D413e981Af0b49349Cc.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xD465b6B4937D768075414D413e981Af0b49349Cc.svg",
         "tags": ["mainnet"]
       },
       {
@@ -123,7 +123,7 @@
         "address": "0x10C9284E6094b71D3CE4E38B8bFfc668199da677",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x10C9284E6094b71D3CE4E38B8bFfc668199da677.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x10C9284E6094b71D3CE4E38B8bFfc668199da677.svg",
         "tags": ["mainnet"]
       },
       {
@@ -132,7 +132,7 @@
         "address": "0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353.svg",
         "tags": ["mainnet"]
       },
       {
@@ -141,7 +141,7 @@
         "address": "0x7D30c36f845d1dEe79f852abF3A8A402fAdF3b53",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0x7D30c36f845d1dEe79f852abF3A8A402fAdF3b53.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x7D30c36f845d1dEe79f852abF3A8A402fAdF3b53.svg",
         "tags": ["mainnet"]
       },
       {
@@ -150,7 +150,7 @@
         "address": "0x046cb616d7a52173e4Da9efF1BFd590550aa3228",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x046cb616d7a52173e4Da9efF1BFd590550aa3228.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x046cb616d7a52173e4Da9efF1BFd590550aa3228.svg",
         "tags": ["mainnet"]
       },
       {
@@ -159,7 +159,7 @@
         "address": "0xc9FDE867a14376829Ab759F4C4871F67e2d3E441",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0xc9FDE867a14376829Ab759F4C4871F67e2d3E441.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xc9FDE867a14376829Ab759F4C4871F67e2d3E441.svg",
         "tags": ["mainnet"]
       },
       {
@@ -168,7 +168,7 @@
         "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5.svg",
         "tags": ["mainnet"]
       },
       {
@@ -177,7 +177,7 @@
         "address": "0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c.svg",
         "tags": ["mainnet"]
       },
       {
@@ -186,7 +186,7 @@
         "address": "0x3A1138075bd97a33F23A87824b811146FA44288E",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0x3A1138075bd97a33F23A87824b811146FA44288E.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x3A1138075bd97a33F23A87824b811146FA44288E.svg",
         "tags": ["mainnet"]
       },
       {
@@ -195,7 +195,7 @@
         "address": "0x4e57e27e4166275Eb7f4966b42A201d76e481B03",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x4e57e27e4166275Eb7f4966b42A201d76e481B03.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x4e57e27e4166275Eb7f4966b42A201d76e481B03.svg",
         "tags": ["mainnet"]
       },
       {
@@ -204,7 +204,7 @@
         "address": "0x654bAc3eC77d6dB497892478f854cF6e8245DcA9",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x654bAc3eC77d6dB497892478f854cF6e8245DcA9.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x654bAc3eC77d6dB497892478f854cF6e8245DcA9.svg",
         "tags": ["mainnet"]
       },
       {
@@ -213,7 +213,7 @@
         "address": "0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878.svg",
         "tags": ["mainnet"]
       },
       {
@@ -222,7 +222,7 @@
         "address": "0x10faae6A25354544081D1aa3438e66086218d851",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0x10faae6A25354544081D1aa3438e66086218d851.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x10faae6A25354544081D1aa3438e66086218d851.svg",
         "tags": ["mainnet"]
       },
   
@@ -232,7 +232,7 @@
         "address": "0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa.svg",
         "tags": ["mainnet"]
       },
       {
@@ -241,7 +241,7 @@
         "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347.svg",
         "tags": ["mainnet"]
       },
       {
@@ -250,7 +250,7 @@
         "address": "0x383627CaeC2CE3b36793c34B576B2e97BEDA0466",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x383627CaeC2CE3b36793c34B576B2e97BEDA0466.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x383627CaeC2CE3b36793c34B576B2e97BEDA0466.svg",
         "tags": ["mainnet"]
       },
       {
@@ -259,7 +259,7 @@
         "address": "0x2A96a67C3BC9063991127d475d0cFCB0E86a2e5C",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0x2A96a67C3BC9063991127d475d0cFCB0E86a2e5C.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x2A96a67C3BC9063991127d475d0cFCB0E86a2e5C.svg",
         "tags": ["mainnet"]
       },
       {
@@ -268,7 +268,7 @@
         "address": "0x9885488cD6864DF90eeBa6C5d07B35f08CEb05e9",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x9885488cD6864DF90eeBa6C5d07B35f08CEb05e9.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x9885488cD6864DF90eeBa6C5d07B35f08CEb05e9.svg",
         "tags": ["mainnet"]
       },
       {
@@ -277,7 +277,7 @@
         "address": "0x7398a7b563D78208cF7cF35Fdd774871dE6ED57E",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0x7398a7b563D78208cF7cF35Fdd774871dE6ED57E.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x7398a7b563D78208cF7cF35Fdd774871dE6ED57E.svg",
         "tags": ["mainnet"]
       },
       {
@@ -286,7 +286,7 @@
         "address": "0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8.svg",
         "tags": ["mainnet"]
       },
       {
@@ -295,7 +295,7 @@
         "address": "0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a.svg",
         "tags": ["mainnet"]
       },
       {
@@ -304,7 +304,7 @@
         "address": "0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9.svg",
         "tags": ["mainnet"]
       },
       {
@@ -313,7 +313,7 @@
         "address": "0x00fe915a5209e74D5a88334cC2daA4541AEC8278",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x00fe915a5209e74D5a88334cC2daA4541AEC8278.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x00fe915a5209e74D5a88334cC2daA4541AEC8278.svg",
         "tags": ["mainnet"]
       },
       {
@@ -322,7 +322,7 @@
         "address": "0x57d06bB1e3B60C875cD3A4445a53217F9B44d390",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x57d06bB1e3B60C875cD3A4445a53217F9B44d390.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x57d06bB1e3B60C875cD3A4445a53217F9B44d390.svg",
         "tags": ["mainnet"]
       },
       {
@@ -331,7 +331,7 @@
         "address": "0x212331e1435A8df230715dB4C02B2a3A0abF8c61",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x212331e1435A8df230715dB4C02B2a3A0abF8c61.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x212331e1435A8df230715dB4C02B2a3A0abF8c61.svg",
         "tags": ["mainnet"]
       },
       {
@@ -340,7 +340,7 @@
         "address": "0x8EfBaA6080412D7832025b03B9239D0be1e2aa3B",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x8EfBaA6080412D7832025b03B9239D0be1e2aa3B.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x8EfBaA6080412D7832025b03B9239D0be1e2aa3B.svg",
         "tags": ["mainnet"]
       },
       {
@@ -349,7 +349,7 @@
         "address": "0xBBd4650EeA85f9DBd83d6Fb2a6E8B3d8f32FE1C5",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0xBBd4650EeA85f9DBd83d6Fb2a6E8B3d8f32FE1C5.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xBBd4650EeA85f9DBd83d6Fb2a6E8B3d8f32FE1C5.svg",
         "tags": ["mainnet"]
       },
       {
@@ -358,7 +358,7 @@
         "address": "0x43e90012a3d69AeBdc2750424b41655776c6D598",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0x43e90012a3d69AeBdc2750424b41655776c6D598.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x43e90012a3d69AeBdc2750424b41655776c6D598.svg",
         "tags": ["mainnet"]
       },
       {
@@ -367,7 +367,7 @@
         "address": "0x2c9C7bF004d5aa7c4D0a6374B935653117577D27",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0x2c9C7bF004d5aa7c4D0a6374B935653117577D27.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x2c9C7bF004d5aa7c4D0a6374B935653117577D27.svg",
         "tags": ["mainnet"]
       },
       {
@@ -376,7 +376,7 @@
         "address": "0xE30596Da34b38cD3d838626997f2205c6F4a77AE",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0xE30596Da34b38cD3d838626997f2205c6F4a77AE.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xE30596Da34b38cD3d838626997f2205c6F4a77AE.svg",
         "tags": ["mainnet"]
       },
       {
@@ -385,7 +385,7 @@
         "address": "0x49fB98F9b4a3183Cd88e7a115144fdf00fa6fB95",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x49fB98F9b4a3183Cd88e7a115144fdf00fa6fB95.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x49fB98F9b4a3183Cd88e7a115144fdf00fa6fB95.svg",
         "tags": ["mainnet"]
       },
       {
@@ -394,7 +394,7 @@
         "address": "0xD6597AA36DD90d7fCcBd7B8A228F2d5CdC88eAd0",
         "chainId": 25,
         "decimals": 18,
-        "logoURI": "./images/tokens/0xD6597AA36DD90d7fCcBd7B8A228F2d5CdC88eAd0.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xD6597AA36DD90d7fCcBd7B8A228F2d5CdC88eAd0.svg",
         "tags": ["mainnet"]
       },
       {
@@ -403,7 +403,7 @@
         "address": "0x4c76a10A658d71AdB6431765a0a3cA13B6e2D491",
         "chainId": 25,
         "decimals": 2,
-        "logoURI": "./images/tokens/0x4c76a10A658d71AdB6431765a0a3cA13B6e2D491.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x4c76a10A658d71AdB6431765a0a3cA13B6e2D491.svg",
         "tags": ["mainnet"]
       },
       {
@@ -412,7 +412,7 @@
         "address": "0x06Cd480179e3725AEd98a6E26fE4362954e67961",
         "chainId": 25,
         "decimals": 9,
-        "logoURI": "./images/tokens/0x06Cd480179e3725AEd98a6E26fE4362954e67961.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x06Cd480179e3725AEd98a6E26fE4362954e67961.svg",
         "tags": ["mainnet"]
       },
       {
@@ -421,7 +421,7 @@
         "address": "0x904Bd5a5AAC0B9d88A0D47864724218986Ad4a3a",
         "chainId": 338,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x904Bd5a5AAC0B9d88A0D47864724218986Ad4a3a.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x904Bd5a5AAC0B9d88A0D47864724218986Ad4a3a.svg",
         "tags": ["testnet"]
       },
       {
@@ -430,7 +430,7 @@
         "address": "0x441d72d584b16105FF1C68DC8bc4517F4DC13E55",
         "chainId": 338,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x441d72d584b16105FF1C68DC8bc4517F4DC13E55.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x441d72d584b16105FF1C68DC8bc4517F4DC13E55.svg",
         "tags": ["testnet"]
       },
       {
@@ -439,7 +439,7 @@
         "address": "0x321106E51b78E0E9CEBcFeC63C5250F0F3CcB82b",
         "chainId": 338,
         "decimals": 6,
-        "logoURI": "./images/tokens/0x321106E51b78E0E9CEBcFeC63C5250F0F3CcB82b.svg"
+        "logoURI": "https://mm.finance/images/tokens/0x321106E51b78E0E9CEBcFeC63C5250F0F3CcB82b.svg"
       },
       {
         "name": "WBTC Token",
@@ -447,7 +447,7 @@
         "address": "0xFFc8ce84a196420d7bCCDEe980c65364eD1f389F",
         "chainId": 338,
         "decimals": 8,
-        "logoURI": "./images/tokens/0xFFc8ce84a196420d7bCCDEe980c65364eD1f389F.svg",
+        "logoURI": "https://mm.finance/images/tokens/0xFFc8ce84a196420d7bCCDEe980c65364eD1f389F.svg",
         "tags": ["testnet"]
       },
       {
@@ -456,7 +456,7 @@
         "address": "0x6a3173618859C7cd40fAF6921b5E9eB6A76f1fD4",
         "chainId": 338,
         "decimals": 18,
-        "logoURI": "./images/tokens/0x6a3173618859C7cd40fAF6921b5E9eB6A76f1fD4.svg",
+        "logoURI": "https://mm.finance/images/tokens/0x6a3173618859C7cd40fAF6921b5E9eB6A76f1fD4.svg",
         "tags": ["testnet"]
       }
     ]
