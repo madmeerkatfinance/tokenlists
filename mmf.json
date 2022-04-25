@@ -414,50 +414,6 @@
         "decimals": 9,
         "logoURI": "https://mm.finance/images/tokens/0x06Cd480179e3725AEd98a6E26fE4362954e67961.svg",
         "tags": ["mainnet"]
-      },
-      {
-        "name": "VVS Token",
-        "symbol": "VVS",
-        "address": "0x904Bd5a5AAC0B9d88A0D47864724218986Ad4a3a",
-        "chainId": 338,
-        "decimals": 18,
-        "logoURI": "https://mm.finance/images/tokens/0x904Bd5a5AAC0B9d88A0D47864724218986Ad4a3a.svg",
-        "tags": ["testnet"]
-      },
-      {
-        "name": "Ethereum Token",
-        "symbol": "ETH",
-        "address": "0x441d72d584b16105FF1C68DC8bc4517F4DC13E55",
-        "chainId": 338,
-        "decimals": 18,
-        "logoURI": "https://mm.finance/images/tokens/0x441d72d584b16105FF1C68DC8bc4517F4DC13E55.svg",
-        "tags": ["testnet"]
-      },
-      {
-        "name": "USDC Token",
-        "symbol": "USDC",
-        "address": "0x321106E51b78E0E9CEBcFeC63C5250F0F3CcB82b",
-        "chainId": 338,
-        "decimals": 6,
-        "logoURI": "https://mm.finance/images/tokens/0x321106E51b78E0E9CEBcFeC63C5250F0F3CcB82b.svg"
-      },
-      {
-        "name": "WBTC Token",
-        "symbol": "WBTC",
-        "address": "0xFFc8ce84a196420d7bCCDEe980c65364eD1f389F",
-        "chainId": 338,
-        "decimals": 8,
-        "logoURI": "https://mm.finance/images/tokens/0xFFc8ce84a196420d7bCCDEe980c65364eD1f389F.svg",
-        "tags": ["testnet"]
-      },
-      {
-        "name": "Wrapped CRO",
-        "symbol": "WCRO",
-        "address": "0x6a3173618859C7cd40fAF6921b5E9eB6A76f1fD4",
-        "chainId": 338,
-        "decimals": 18,
-        "logoURI": "https://mm.finance/images/tokens/0x6a3173618859C7cd40fAF6921b5E9eB6A76f1fD4.svg",
-        "tags": ["testnet"]
       }
     ]
   }
